@@ -1,6 +1,6 @@
 # Gamma-Spectrometer
 This is a Compact Gammaspectrometer Based On the Scematics and component choise of the [Open-Gamma-Detector](https://github.com/Open-Gamma-Project/Open-Gamma-Detector).
-It is Not Designed for testing purposes and should never be used in a production enviorment.  
+Its only Designed for testing purposes and should never be used in a production enviorment.  
 <br>
 This version of the Gamma spectrometer was designed with a few strict restrictions in mind.
 
