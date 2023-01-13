@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>C:\Users\Nibne\Documents\Gamma Spectrometer\Hardware\Gamma_spectrometer.kicad_sch</source>
-    <date>1/13/2023 2:00:16 PM</date>
+    <date>1/13/2023 2:18:38 PM</date>
     <tool>Eeschema (6.0.8)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -545,7 +545,7 @@
       <tstamps>93e4b9fa-d049-4a44-81e1-ce5ef45e2009</tstamps>
     </comp>
     <comp ref="U4">
-      <value>OPA355NA</value>
+      <value>OPA357AIDVBR</value>
       <footprint>Package_TO_SOT_SMD:SOT-23-6</footprint>
       <datasheet>http://www.ti.com/lit/ds/symlink/opa355.pdf</datasheet>
       <libsource lib="Amplifier_Operational" part="OPA355NA" description="200MHz, CMOS, Operational amplifier, with shutdown, SOT-23-6"/>
@@ -555,7 +555,7 @@
       <tstamps>16e3266a-fa79-4a13-8a63-262ef7365400</tstamps>
     </comp>
     <comp ref="U5">
-      <value>OPA355NA</value>
+      <value>OPA357AIDVBR</value>
       <footprint>Package_TO_SOT_SMD:SOT-23-6</footprint>
       <datasheet>http://www.ti.com/lit/ds/symlink/opa355.pdf</datasheet>
       <libsource lib="Amplifier_Operational" part="OPA355NA" description="200MHz, CMOS, Operational amplifier, with shutdown, SOT-23-6"/>
