@@ -6,7 +6,7 @@ This version of the Gamma spectrometer was designed with a few strict restrictio
 
 ###### Restrictions
 <br>
-The main rrestrictions
+The main rrestrictions:  
 - Power
     - <= 50ma
     - 5v
