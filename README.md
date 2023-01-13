@@ -36,3 +36,4 @@ due to the enviorment to way comunictation is not possible so the bord does not 
 The scintilator end general operational methon of the systen is equal to that of the Opgen Gamma Detecto
 
 
+![Alt text](Doc/BoardRender.png)
