@@ -2791,7 +2791,7 @@
   (symbol (lib_id "Connector:Conn_01x01_Female") (at 87.63 151.13 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 95cd8917-dd22-409d-9bf7-9fcc99b0bc9b)
-    (property "Reference" "J?" (id 0) (at 88.9 150.4949 90)
+    (property "Reference" "J12" (id 0) (at 88.9 150.4949 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "Test Pad" (id 1) (at 88.9 153.0349 90)
@@ -3555,7 +3555,7 @@
       (reference "J11") (unit 1) (value "Test Pad") (footprint "TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm")
     )
     (path "/95cd8917-dd22-409d-9bf7-9fcc99b0bc9b"
-      (reference "J?") (unit 1) (value "Test Pad") (footprint "TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm")
+      (reference "J12") (unit 1) (value "Test Pad") (footprint "TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm")
     )
     (path "/e5f3c54b-7060-4a13-b929-4280c6a62fa5"
       (reference "Q1") (unit 1) (value "2N7002") (footprint "Package_TO_SOT_SMD:SOT-23")
