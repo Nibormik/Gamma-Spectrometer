@@ -1,8 +1,3 @@
-"Source:","C:\Users\Nibne\Documents\Gamma Spectrometer\Hardware\Gamma_spectrometer.kicad_sch"
-"Date:","1/13/2023 2:55:04 PM"
-"Tool:","Eeschema (6.0.8)"
-"Generator:","C:\Program Files\KiCad\6.0\bin\scripting\plugins/bom_csv_grouped_by_value.py"
-
 "Individual Components:"
 
 "Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet","MANUFACTURER","MAXIMUM_PACKAGE_HEIGHT","PARTREV","STANDARD"
