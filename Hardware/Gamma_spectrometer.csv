@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Source:,C:\Users\Nibne\Documents\Gamma Spectrometer\Hardware\Gamma_spectrometer.kicad_sch,,,,,,,,,
 Date:,2/6/2023 2:52:58 PM,,,,,,,,,
 Tool:,Eeschema (6.0.8),,,,,,,,,
@@ -79,3 +80,77 @@ Item,Qty,Reference(s),Value,LibPart,Footprint,Datasheet,MANUFACTURER,MAXIMUM_PAC
 17,1,U6,LMV7219M7,Comparator:LMV7219M7,Package_TO_SOT_SMD:SOT-353_SC-70-5,https://www.ti.com/lit/ds/symlink/lmv7219.pdf,,,,
 18,1,U8,FODM217A,Kan Erstates Med lignende Komponenter,Package_SO:SOP-4_4.4x2.6mm_P1.27mm,https://www.onsemi.com/pub/Collateral/FODM214-D.PDF,,,,
 19,1,U11,ATtiny1616-M,MCU_Microchip_ATtiny:ATtiny1616-M,Package_DFN_QFN:VQFN-20-1EP_3x3mm_P0.4mm_EP1.7x1.7mm,http://ww1.microchip.com/downloads/en/DeviceDoc/ATtiny3216_ATtiny1616-data-sheet-40001997B.pdf,,,,
+=======
+"Individual Components:","","","","","","","","","",""
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet","MANUFACTURER","MAXIMUM_PACKAGE_HEIGHT","PARTREV","STANDARD"
+"","","C1","C","Device:C","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","~","","","",""
+"","","C2","C","Device:C","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","~","","","",""
+"","","C3","C","Device:C","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","~","","","",""
+"","","C4","10n","Device:C","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","~","","","",""
+"","","C5","10n","Device:C","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","~","","","",""
+"","","D1","PMEG6010CEH","Diode:PMEG6010CEH","Diode_SMD:D_SOD-123F","https://assets.nexperia.com/documents/data-sheet/PMEG6010CEH_PMEG6010CEJ.pdf","","","",""
+"","","D2","PMEG6010CEH","Diode:PMEG6010CEH","Diode_SMD:D_SOD-123F","https://assets.nexperia.com/documents/data-sheet/PMEG6010CEH_PMEG6010CEJ.pdf","","","",""
+"","","J1","Conn_01x04","Connector_Generic:Conn_01x04","Connector_PinHeader_2.00mm:PinHeader_1x04_P2.00mm_Vertical","~","","","",""
+"","","J2","Conn_01x04","Connector_Generic:Conn_01x04","Connector_PinHeader_2.00mm:PinHeader_1x04_P2.00mm_Vertical","~","","","",""
+"","","J3","Conn_01x01","Connector_Generic:Conn_01x01","Connector_PinHeader_2.00mm:PinHeader_1x01_P2.00mm_Vertical","~","","","",""
+"","","J4","Conn_01x04","Connector_Generic:Conn_01x04","Connector_PinHeader_2.00mm:PinHeader_1x04_P2.00mm_Vertical","~","","","",""
+"","","J5","Test Pad","Connector:Conn_01x01_Female","TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm","~","","","",""
+"","","J6","Test Pad","Connector:Conn_01x01_Female","TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm","~","","","",""
+"","","J7","Test Pad","Connector:Conn_01x01_Female","TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm","~","","","",""
+"","","J8","Test Pad","Connector:Conn_01x01_Female","TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm","~","","","",""
+"","","J9","Test Pad","Connector:Conn_01x01_Female","TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm","~","","","",""
+"","","J11","Test Pad","Connector:Conn_01x01_Female","TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm","~","","","",""
+"","","Q1","2N7002","Transistor_FET:2N7002","Package_TO_SOT_SMD:SOT-23","https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF","","","",""
+"","","R10","10","Device:R","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","~","","","",""
+"","","R11","10","Device:R","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","~","","","",""
+"","","R12","49.9","Device:R","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","~","","","",""
+"","","R13","49.9","Device:R","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","~","","","",""
+"","","R14","1000","Device:R","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","~","","","",""
+"","","R15","1000","Device:R","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","~","","","",""
+"","","R16","1000","Device:R","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","~","","","",""
+"","","R17","107K","Device:R","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","~","","","",""
+"","","R26","107K","Device:R","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","~","","","",""
+"","","R27","10","Device:R","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","~","","","",""
+"","","R28","10","Device:R","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","~","","","",""
+"","","R29","49.9","Device:R","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","~","","","",""
+"","","R30","?","Device:R","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","~","","","",""
+"","","R31","?","Device:R","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","~","","","",""
+"","","R32","49.9","Device:R","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","~","","","",""
+"","","R33","1000","Device:R","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","~","","","",""
+"","","R34","1000","Device:R","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","~","","","",""
+"","","SIPM1","MICROFC-30035-SMT-TR1","MICROFC-30035-SMT-TR1:MICROFC-30035-SMT-TR1","MICROFC-30035-SMT-TR1:XDCR_MICROFC-30035-SMT-TR1","","On Semiconductor","0.70 mm","Issue O","Manufacturer Recommendations"
+"","","U2","LM317L_SO8","Regulator_Linear:LM317L_SO8","Package_SO:SOIC-8_3.9x4.9mm_P1.27mm","http://www.ti.com/lit/ds/snvs775k/snvs775k.pdf","","","",""
+"","","U3","OPA356xxDBV","Amplifier_Operational:OPA356xxDBV","Package_TO_SOT_SMD:SOT-23-5","http://www.ti.com/lit/ds/symlink/opa356.pdf","","","",""
+"","","U4","OPA357AIDVBR","Amplifier_Operational:OPA355NA","Package_TO_SOT_SMD:SOT-23-6","http://www.ti.com/lit/ds/symlink/opa355.pdf","","","",""
+"","","U5","OPA357AIDVBR","Amplifier_Operational:OPA355NA","Package_TO_SOT_SMD:SOT-23-6","http://www.ti.com/lit/ds/symlink/opa355.pdf","","","",""
+"","","U6","LMV7219M7","Comparator:LMV7219M7","Package_TO_SOT_SMD:SOT-353_SC-70-5","https://www.ti.com/lit/ds/symlink/lmv7219.pdf","","","",""
+"","","U7","OPA356xxDBV","Amplifier_Operational:OPA356xxDBV","Package_TO_SOT_SMD:SOT-23-5","http://www.ti.com/lit/ds/symlink/opa356.pdf","","","",""
+"","","U8","FODM217A","Isolator:FODM217A","Package_SO:SOP-4_4.4x2.6mm_P1.27mm","https://www.onsemi.com/pub/Collateral/FODM214-D.PDF","","","",""
+"","","U11","ATtiny1616-M","MCU_Microchip_ATtiny:ATtiny1616-M","Package_DFN_QFN:VQFN-20-1EP_3x3mm_P0.4mm_EP1.7x1.7mm","http://ww1.microchip.com/downloads/en/DeviceDoc/ATtiny3216_ATtiny1616-data-sheet-40001997B.pdf","","","",""
+
+
+
+"Collated Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet","MANUFACTURER","MAXIMUM_PACKAGE_HEIGHT","PARTREV","STANDARD"
+"1","3","C1, C2, C3","C","Device:C","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","~","","","",""
+"2","2","C4, C5","10n","Device:C","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","~","","","",""
+"3","2","D1, D2","PMEG6010CEH","Diode:PMEG6010CEH","Diode_SMD:D_SOD-123F","https://assets.nexperia.com/documents/data-sheet/PMEG6010CEH_PMEG6010CEJ.pdf","","","",""
+"4","3","J1, J2, J4","Conn_01x04","Connector_Generic:Conn_01x04","Connector_PinHeader_2.00mm:PinHeader_1x04_P2.00mm_Vertical","~","","","",""
+"5","1","J3","Conn_01x01","Connector_Generic:Conn_01x01","Connector_PinHeader_2.00mm:PinHeader_1x01_P2.00mm_Vertical","~","","","",""
+"6","6","J5, J6, J7, J8, J9, J11","Test Pad","Connector:Conn_01x01_Female","TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm","~","","","",""
+"7","1","Q1","2N7002","Transistor_FET:2N7002","Package_TO_SOT_SMD:SOT-23","https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF","","","",""
+"8","4","R10, R11, R27, R28","10","Device:R","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","~","","","",""
+"9","4","R12, R13, R29, R32","49.9","Device:R","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","~","","","",""
+"10","5","R14, R15, R16, R33, R34","1000","Device:R","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","~","","","",""
+"11","2","R17, R26","107K","Device:R","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","~","","","",""
+"12","2","R30, R31","?","Device:R","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","~","","","",""
+"13","1","SIPM1","MICROFC-30035-SMT-TR1","MICROFC-30035-SMT-TR1:MICROFC-30035-SMT-TR1","MICROFC-30035-SMT-TR1:XDCR_MICROFC-30035-SMT-TR1","","On Semiconductor","0.70 mm","Issue O","Manufacturer Recommendations"
+"14","1","U2","LM317L_SO8","Regulator_Linear:LM317L_SO8","Package_SO:SOIC-8_3.9x4.9mm_P1.27mm","http://www.ti.com/lit/ds/snvs775k/snvs775k.pdf","","","",""
+"15","2","U3, U7","OPA356xxDBV","Amplifier_Operational:OPA356xxDBV","Package_TO_SOT_SMD:SOT-23-5","http://www.ti.com/lit/ds/symlink/opa356.pdf","","","",""
+"16","2","U4, U5","OPA357AIDVBR","Amplifier_Operational:OPA355NA","Package_TO_SOT_SMD:SOT-23-6","http://www.ti.com/lit/ds/symlink/opa355.pdf","","","",""
+"17","1","U6","LMV7219M7","Comparator:LMV7219M7","Package_TO_SOT_SMD:SOT-353_SC-70-5","https://www.ti.com/lit/ds/symlink/lmv7219.pdf","","","",""
+"18","1","U8","FODM217A","Isolator:FODM217A","Package_SO:SOP-4_4.4x2.6mm_P1.27mm","https://www.onsemi.com/pub/Collateral/FODM214-D.PDF","","","",""
+"19","1","U11","ATtiny1616-M","MCU_Microchip_ATtiny:ATtiny1616-M","Package_DFN_QFN:VQFN-20-1EP_3x3mm_P0.4mm_EP1.7x1.7mm","http://ww1.microchip.com/downloads/en/DeviceDoc/ATtiny3216_ATtiny1616-data-sheet-40001997B.pdf","","","",""
+>>>>>>> e9458b643967ecdc28e8ddf782dfd15609280e83
