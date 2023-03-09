@@ -29,11 +29,11 @@ The main rrestrictions:  <br>
 
 ## Similarities between projects
 
-since this is based upon the schematic of the Open Gamma Detector there are not allot of diffrences
-main diffrences are diffrent cpu and the comunication method
-due to the enviorment to way comunictation is not possible so the bord does not support it
+Since this is based upon the schematic of the Open Gamma Detector there are not allot of diffrences.  
+Main diffrences are a diffrent cpu and the data output (wich is stricly analog)
+Due to the enviorment, to-way comunictation is not possible so the bord does not support it.
 
-The scintilator end general operational methon of the systen is equal to that of the Opgen Gamma Detecto
+The scintilator end general operational methon of the systen is equal to that of the Opgen Gamma Detector
 
 
 ![Alt text](Doc/BoardRender.png)
